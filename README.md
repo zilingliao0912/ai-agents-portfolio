@@ -1,6 +1,11 @@
 # AI Agents Portfolio — Web3 Retail Adoption Loop
 
-An MVP system of cooperating AI agents designed to **detect pain points**, **turn them into content**, and **publish on social** to accelerate Web3 retail adoption.
+![Python](https://img.shields.io/badge/Python-3.12-blue.svg)
+![Status](https://img.shields.io/badge/Status-MVP-orange.svg)
+![License](https://img.shields.io/badge/License-MIT-green.svg)
+
+
+An end-to-end multi-agent system that **detect Web3 pain points** from social media, **turn them into content**, and auto-generates memes + captions and **publish on social** to accelerate Web3 retail adoption.
 
 > **Agents in the loop**
 > 1) **Signal Agent** — Detects pain points & trends from social data (e.g., Reddit, X).
